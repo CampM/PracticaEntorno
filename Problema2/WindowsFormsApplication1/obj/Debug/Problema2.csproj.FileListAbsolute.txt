@@ -1,0 +1,20 @@
+C:\Users\1DAW\Desktop\Ejercicios\Programacion\VisualStudio\2 - Practica Evaluacion 2\Practicas\Problema2\Problema2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\1DAW\Desktop\Ejercicios\Programacion\VisualStudio\2 - Practica Evaluacion 2\Practicas\Problema2\Problema2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\1DAW\Desktop\Ejercicios\Programacion\VisualStudio\2 - Practica Evaluacion 2\Practicas\Problema2\Problema2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\1DAW\Desktop\Ejercicios\Programacion\VisualStudio\2 - Practica Evaluacion 2\Practicas\Problema2\Problema2\WindowsFormsApplication1\obj\Debug\Problema2.csprojResolveAssemblyReference.cache
+C:\Users\1DAW\Desktop\Ejercicios\Programacion\VisualStudio\2 - Practica Evaluacion 2\Practicas\Problema2\Problema2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\1DAW\Desktop\Ejercicios\Programacion\VisualStudio\2 - Practica Evaluacion 2\Practicas\Problema2\Problema2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Principal.resources
+C:\Users\1DAW\Desktop\Ejercicios\Programacion\VisualStudio\2 - Practica Evaluacion 2\Practicas\Problema2\Problema2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\1DAW\Desktop\Ejercicios\Programacion\VisualStudio\2 - Practica Evaluacion 2\Practicas\Problema2\Problema2\WindowsFormsApplication1\obj\Debug\Problema2.csproj.GenerateResource.Cache
+C:\Users\1DAW\Desktop\Ejercicios\Programacion\VisualStudio\2 - Practica Evaluacion 2\Practicas\Problema2\Problema2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\1DAW\Desktop\Ejercicios\Programacion\VisualStudio\2 - Practica Evaluacion 2\Practicas\Problema2\Problema2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\1DAW\Desktop\Temario\Programación\2 - Practicas Evaluacion\2.1 - Practica Evaluacion 2\Practica\Problema2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\1DAW\Desktop\Temario\Programación\2 - Practicas Evaluacion\2.1 - Practica Evaluacion 2\Practica\Problema2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\1DAW\Desktop\Temario\Programación\2 - Practicas Evaluacion\2.1 - Practica Evaluacion 2\Practica\Problema2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\1DAW\Desktop\Temario\Programación\2 - Practicas Evaluacion\2.1 - Practica Evaluacion 2\Practica\Problema2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\1DAW\Desktop\Temario\Programación\2 - Practicas Evaluacion\2.1 - Practica Evaluacion 2\Practica\Problema2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\1DAW\Desktop\Temario\Programación\2 - Practicas Evaluacion\2.1 - Practica Evaluacion 2\Practica\Problema2\WindowsFormsApplication1\obj\Debug\Problema2.csprojResolveAssemblyReference.cache
+C:\Users\1DAW\Desktop\Temario\Programación\2 - Practicas Evaluacion\2.1 - Practica Evaluacion 2\Practica\Problema2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\1DAW\Desktop\Temario\Programación\2 - Practicas Evaluacion\2.1 - Practica Evaluacion 2\Practica\Problema2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Principal.resources
+C:\Users\1DAW\Desktop\Temario\Programación\2 - Practicas Evaluacion\2.1 - Practica Evaluacion 2\Practica\Problema2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\1DAW\Desktop\Temario\Programación\2 - Practicas Evaluacion\2.1 - Practica Evaluacion 2\Practica\Problema2\WindowsFormsApplication1\obj\Debug\Problema2.csproj.GenerateResource.Cache
