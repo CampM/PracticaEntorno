@@ -18,3 +18,6 @@ C:\Users\1DAW\Desktop\Temario\Programación\2 - Practicas Evaluacion\2.1 - Pract
 C:\Users\1DAW\Desktop\Temario\Programación\2 - Practicas Evaluacion\2.1 - Practica Evaluacion 2\Practica\Problema2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Principal.resources
 C:\Users\1DAW\Desktop\Temario\Programación\2 - Practicas Evaluacion\2.1 - Practica Evaluacion 2\Practica\Problema2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 C:\Users\1DAW\Desktop\Temario\Programación\2 - Practicas Evaluacion\2.1 - Practica Evaluacion 2\Practica\Problema2\WindowsFormsApplication1\obj\Debug\Problema2.csproj.GenerateResource.Cache
+C:\Users\1DAW\Desktop\Temario\0 - PRACTICAS EVALUACION\Entornos Desarrollo\Practica 2\Proyecto-Versionado\FrigoGit\Problema2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\1DAW\Desktop\Temario\0 - PRACTICAS EVALUACION\Entornos Desarrollo\Practica 2\Proyecto-Versionado\FrigoGit\Problema2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\1DAW\Desktop\Temario\0 - PRACTICAS EVALUACION\Entornos Desarrollo\Practica 2\Proyecto-Versionado\FrigoGit\Problema2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
